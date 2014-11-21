@@ -1,0 +1,3 @@
+[submodule "src/3dparty/qwebdav"]
+	path = src/3dparty/qwebdav
+	url = https://github.com/ibatullin/qwebdavlib.git

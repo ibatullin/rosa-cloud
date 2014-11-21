@@ -1,3 +1,3 @@
 TEMPLATE = subdirs
 CONFIG += ordered
-SUBDIRS +=
+SUBDIRS += qwebdav/qwebdavlib
